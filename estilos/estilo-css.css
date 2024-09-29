@@ -1,7 +1,7 @@
 html {
     font-size: medium;
     font-family: "Comic Neue", system-ui;
-    background-image: url(/Users/moon4/Documents/html-projetos/daisy-days/imagens/background.jpg);
+    background-image: url(https://raw.githubusercontent.com/gio-ol/daisy-days/refs/heads/main/imagens/background.jpg);
 }
 
 body {
